@@ -1,6 +1,6 @@
 #include <iostream>
 
-// This is a cool "Hello, World!" program.
+// This is a cool "Hello, World!".
 
 int main() {
     std::cout << "Hello, C++!\n";
